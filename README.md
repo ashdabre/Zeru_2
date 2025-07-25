@@ -2,7 +2,7 @@
 
 ## 📌 Problem Statement
 
-he goal is to evaluate the risk profile of a set of wallet addresses interacting with lending protocols (Aave V2, Compound V2/V3) by analyzing their on-chain transaction history. This involves retrieving raw blockchain data, extracting meaningful features (e.g., transaction frequency, borrow/repay patterns, and asset movements), and developing a risk scoring model that assigns each wallet a score between 0 and 1000. 
+The goal is to evaluate the risk profile of a set of wallet addresses interacting with lending protocols (Aave V2, Compound V2/V3) by analyzing their on-chain transaction history. This involves retrieving raw blockchain data, extracting meaningful features (e.g., transaction frequency, borrow/repay patterns, and asset movements), and developing a risk scoring model that assigns each wallet a score between 0 and 1000. 
 
 The final output is a structured CSV containing each wallet's ID and corresponding risk score, with clear documentation of feature selection, normalization, and scoring logic.
 
