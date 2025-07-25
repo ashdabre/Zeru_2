@@ -1,0 +1,5 @@
+.env
+data/processed_data.csv
+data/raw_transactions.json
+data/*
+!data/processed_data.csv
