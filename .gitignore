@@ -1,5 +1,6 @@
 .env
 data/processed_data.csv
 data/raw_transactions.json
+data/ risk_score_details.csv
 data/*
 !data/processed_data.csv
